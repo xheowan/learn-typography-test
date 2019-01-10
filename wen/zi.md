@@ -1,8 +1,4 @@
----
-description: justfont 字體知識簿
----
-
-# Learn Typography
+# 字體結構
 
 ## Getting Super Powers
 
