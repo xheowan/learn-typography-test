@@ -1,4 +1,4 @@
-# 字體結構
+# 結構
 
 ## Getting Super Powers
 
