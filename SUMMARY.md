@@ -5,12 +5,12 @@
 
 ## 漢字
 
-* [結構](hanzi/structure.md)
-* [特徵](hanzi/feature.md)
-* [風格](hanzi/style.md)
+* [結構](chinese-font/structure.md)
+* [特徵](chinese-font/feature.md)
+* [風格](chinese-font/style.md)
 
 ## 歐文
 
-* [結構](wen/structure.md)
-* [風格](wen/style.md)
+* [結構](latin-font/structure.md)
+* [風格](latin-font/style.md)
 
