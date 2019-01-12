@@ -1,0 +1,17 @@
+{
+    "gitbook": "3.2.3",
+    "language": "zh-hant",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "hints",
+        "-sharing",
+        "-fontsettings"
+    ],
+    "pluginsConfig": {
+        "sharing": {
+            "all": []
+        }
+    }
+}
