@@ -1,7 +1,5 @@
 # 拉丁字母字體結構
 
-## 
-
 * counter 字腔
 * number style
 * ligature
@@ -18,6 +16,4 @@
 * descender下身部
 * ascender 上身部
 * CAP height
-
-
 
