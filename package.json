@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gitbook install && gitbook build"
   },
   "author": "Wan",
   "license": "ISC",
