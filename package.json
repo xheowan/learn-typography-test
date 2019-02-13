@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "gitbook install && gitbook build"
+    "build": "gitbook install && gitbook build && ls"
   },
   "author": "Wan",
   "license": "ISC",
